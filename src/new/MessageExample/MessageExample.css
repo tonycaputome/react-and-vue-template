@@ -1,0 +1,17 @@
+.message {
+  color: red;
+}
+
+a {
+  background-color: blueviolet;
+  display: inline-block;
+  padding: 5px 20px;
+  color: azure;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+a:hover {
+  text-decoration: none;
+  color: azure;
+}
